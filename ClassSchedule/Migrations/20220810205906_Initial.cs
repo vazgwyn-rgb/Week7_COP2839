@@ -4,6 +4,7 @@
 
 namespace ClassSchedule.Migrations
 {
+    //Exercise 15-1
     public partial class Initial : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
